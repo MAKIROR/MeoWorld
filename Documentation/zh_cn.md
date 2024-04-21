@@ -11,7 +11,9 @@
 
 整合包已设置好了服务器的三个域名，启动游戏并连接即可！
 
-HMCL 官方下载界面：https://hmcl.huangyuhui.net/download/
+<hr>
+
+[HMCL 官方下载界面：](https://hmcl.huangyuhui.net/download/)
 
 ### 整合包下载
 [百度云链接（提取码：1919）](https://pan.baidu.com/s/1iiU2vrI-xZW0eFoRB4twlw) <br>
@@ -19,10 +21,17 @@ HMCL 官方下载界面：https://hmcl.huangyuhui.net/download/
 
 <hr>
 
-### 游戏更新
+### Mod 更新
 一般而言在整合包级别的更新时我们会另外通知，一般情况下的mod更新可以直接运行游戏根目录的 " ServerSync-4.3.0-all "，此mod会自动同步服务端的mod。
 
 * 此 mod 可能会因为 Javafx 而无法工作，若发生此情况请在命令行运行并加 -o 参数：
 ```
 java -jar ServerSync-4.3.0-all.jar -o
 ```
+
+### 整合包更新
+在 HMCL 启动器 - 设置 - 全局游戏设置 - 修改高级设置 关闭“禁用检查游戏完整性”即可。
+
+由于服务器在海外较慢，且负载比较有限，整合包默认是不会自动对游戏完整性进行检查的，我们也不会过于频繁地更新整合包。因此你可能只需要在我们特别通知需要更新时关闭此选项后 运行一次游戏 即可。
+
+不禁用游戏完整性检查时，启动游戏会变慢（因为要进行繁琐的版本检查），所以在必要时使用就好了。
