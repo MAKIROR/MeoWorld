@@ -23,7 +23,7 @@
 [HMCL 官方下载界面：](https://hmcl.huangyuhui.net/download/)
 
 ### 整合包下载
-[百度云链接（提取码：1919）](https://pan.baidu.com/s/1iiU2vrI-xZW0eFoRB4twlw) <br>
+[百度云链接（提取码：1919）](https://pan.baidu.com/s/108MQ354ZUkyLxU408tzWdg) <br>
 [私有文件服务器（不建议，最好进群下载群文件）](http://file.makiror.xyz/Meoworld/Meoworld.zip)
 
 <hr>
